@@ -1,4 +1,6 @@
-## React, Next.js, ReactNative and 3D Web/App Development  [LinkedIn](https://www.linkedin.com/in/mushab-faheem-365348245/) | [Portfolio](https://r3f-portfolio-faheem.netlify.app/)
+## React, Next.js, ReactNative and 3D Web/App Development  
+
+[LinkedIn](https://www.linkedin.com/in/mushab-faheem-365348245/) | [Portfolio](https://r3f-portfolio-faheem.netlify.app/)
 
 ## About Me
 
