@@ -1,6 +1,6 @@
-## React, Next.js, ReactNative and 3D Web Development
+## React, Next.js, ReactNative and 3D Web/App Development
 
-[LinkedIn](https://www.linkedin.com/in/mushab-faheem-365348245/),
+[LinkedIn](https://www.linkedin.com/in/mushab-faheem-365348245/)|
 [Portfolio](https://r3f-portfolio-faheem.netlify.app/)
 
 ## About Me
@@ -11,8 +11,7 @@ Beyond just coding, I bring a deep understanding of how to optimize performance 
 
 ## Expertise
 
-- React, Next.js, React Native
-- 3D & Animations: Three.js, Expo gl, GSAP
-- Web Development: HTML5, CSS3, Tailwind, Material-UI
-- Tools: VS Code, Figma, Git, Postman, MongoDB
-- ✨ Interactive Web Games
+- ✨ React, Next.js, React Native
+- ✨ Web Development: HTML5, CSS3, Tailwind, Material-UI
+- ✨ 3D & Animations: Three.js, Expo gl, GSAP
+- ✨ Tools: VS Code, Figma, Zaplin, Git, Postman, MongoDB
